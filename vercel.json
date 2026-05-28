@@ -1,5 +1,0 @@
-{
-  "buildCommand": "cd edu-site && npm install && npm run build",
-  "outputDirectory": "edu-site/.next",
-  "installCommand": "cd edu-site && npm install"
-}
